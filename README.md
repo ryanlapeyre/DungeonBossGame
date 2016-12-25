@@ -1,1 +1,2 @@
 # DungeonBossGame
+To run/play, first type the "make" command when in the program directory. This compiles all files together, creating an executable that runs the game. Type "./Gauntlet" to run the game. Also, to delete the object files (.o) type the command "make clean." You will have to you will not have to "remake" the executable unless the program's source code changed. Good luck against the boss :D
